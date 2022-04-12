@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 100px;
+    background-color: #bd8307;
+}
+.grandes-ofertas{
+    background-color:black;
+    height: 30px;
+    color: white;
+    font-size:6px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+.logo-menu{
+    justify-content: space-around;
+    display: flex;
+    margin-top:20px;
+}
+.lista{
+    list-style: none;
+    color: white;
+    display: flex;
+    gap: 9px;
+}
+.img1{
+    height:500px;
+    width:100%;
+}
+.prazerteteraqui{
+    background-color:white;
+    height:45px;
+    width:350px;
+    position:absolute;
+    left: 819px;
+    border-radius: 5px;
+    top: 300px;
+}
+h3{
+    text-align:center;
+    margin-top:9px;
+    font-size:25px;
+    font-weight:400;
+    color:#3C2313;
+}
+.comedouroscomdesconto{
+    margin-top:22px;
+    margin-left: 85px;
+}
+
+.button{
+    background-color:#bd8307;
+    position:absolute;
+    top: 15px;
+    left: 75px;
+    top: 92px;
+    border-radius:4px;
+    cursor: pointer;
+    width:200px;
+    height:50px;
+}
+.comedouro{
+    position: relative;
+    text-align: center;
+    top: 12px;
+    font-weight: 400;
+    color:white;
+    font-size:20px;
+}
+.titulo{
+    border:2px solid rgb(19, 18, 18);
+    width: 100%;
+    height:150px;
+}
+.patinha{
+    position: relative;
+    left: 625px;
+}
+.produtosdestacados{
+    text-align: center;
+    font-size:35px;
+    margin-left:60px;
+}
+.destaque{
+    display:flex;
+    gap:20px;
+    list-style: none;
+    margin-left:540px;
+}
